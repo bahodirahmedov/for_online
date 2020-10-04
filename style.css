@@ -1,0 +1,28 @@
+.total{
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 600px;
+  height: 400px;
+  background-color: khaki;
+  font-family: "Roboto", "Arial", sans-serif;
+}
+.link{
+  background-color: black;
+  color: gold;
+  font-size: 20px;
+  width: 50px;
+  padding: 10px;
+  list-style-type: none;
+  text-decoration: none;
+  border: gold 2px groove;
+  border-radius: 8px;
+  margin-right: auto;
+  margin-left: 30%;
+  box-shadow: 6px 6px 0px 0px 3px grey;
+}
+.link:hover{
+
+  background-color: ghostwhite;
+  color: red;
+
+}
